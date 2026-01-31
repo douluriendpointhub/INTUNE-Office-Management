@@ -1,0 +1,3 @@
+This section of the repository is dedicated to application deployment activities for enterprise / office environments, 
+mainly focusing on Microsoft Intune and endpoint management operations.
+It contains all required files, scripts, commands, and references needed to package, deploy, update, supersede, and uninstall applications efficiently.
